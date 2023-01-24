@@ -1,6 +1,28 @@
-﻿#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/it.xml,http://epg-guide.com/wltv.gz,https://i.mjh.nz/PlutoTV/it.xml.gz,https://i.mjh.nz/PlutoTV/us.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/it.xml,http://epg-guide.com/wltv.gz,https://i.mjh.nz/PlutoTV/it.xml.gz,https://i.mjh.nz/PlutoTV/us.xml"
 
-#EXTINF:-1 tvg-logo="https://www.teleuniverso.it/wp-content/uploads/2020/01/Logo-TG-Universo.jpg" group-title="Ultimi Aggiunti", Report del 9 Gennaio 2023
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/11/14/1668443330288_Rep-NEW-1536x2048_logo.jpeg" group-title="Ultimi Aggiunti", Report del 23 Gennaio 2023
+http://creativemedia3.rai.it/Italy/podcastcdn/Rai/prod_extra_nologo_geo/18984295_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/11/14/1668443330288_Rep-NEW-1536x2048_logo.jpeg" group-title="Ultimi Aggiunti", Report del 9 Gennaio 2023
 http://creativemedia6-rai-it.akamaized.net/podcastcdn/raitre/report/Report_EP_Puntate/18859132_2400.mp4
-#EXTINF:-1 tvg-logo="https://resources5.eaglepictures.com/image/1/630/945/5cdc3b791cef3/il-nemico-alle-porte-cover.jpg" group-title="Ultimi Aggiunti", Il nemico alle porte
-http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/lBzT7ssSlashvp2fysZN2RVixi4QeeqqEEqualeeqqEEqual_2400.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/12/15/1671098417559_1536x2048_logo.jpg" group-title="Ultimi Aggiunti", Il monello (1921)
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/YUWZRyt9GjjQbimQDekJpgeeqqEEqualeeqqEEqual_2400.mp4
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/12/15/1671098712385_1536x2048_logo.jpg" group-title="Ultimi Aggiunti", La febbre dell'oro (1925)
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/pPpPlussc2ApFKT7sRybF5Wi0t0uQeeqqEEqualeeqqEEqual_2400.mp4
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/12/15/1671099167425_1536x2048_logo.jpg" group-title="Ultimi Aggiunti", Luci della città (1931)
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/GyiTaDeE2860ssSlashLCBJ6RfcQeeqqEEqualeeqqEEqual_2400.mp4
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/12/14/1671014235682_1536x2048_logo.jpg" group-title="Ultimi Aggiunti", Tempi moderni (1936)
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/qTNZhBGmbui48UppPpPlussOBOjTQeeqqEEqualeeqqEEqual_2400.mp4
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/12/14/1671015817480_1536x2048_logo.jpg" group-title="Ultimi Aggiunti", Il grande dittatore (1940)
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/uxvbUSvQLkBfufLyHpPpPlussIk3geeqqEEqualeeqqEEqual_2400.mp4
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/12/15/1671099644330_1536x2048_logo.jpg" group-title="Ultimi Aggiunti", Monsieur Verdoux (1947)
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/blnhxAmFhxxqiRvP9jhwcQeeqqEEqualeeqqEEqual_2400.mp4
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/12/15/1671109021766_1536x2048_logo.jpg" group-title="Ultimi Aggiunti", Luci della ribalta (1952)
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/z4GcIK7b2zdLpp3Tk0GWRQeeqqEEqualeeqqEEqual_2400.mp4
